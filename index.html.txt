@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document Viewer</title>
+<style>
+iframe {
+  width: 100%;
+  height: 100vh; /* Adjust the height as needed */
+  border: none;
+}
+/* Add custom CSS here to hide elements */
+</style>
+</head>
+<body>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQbOVlSBH9UfJaD96-M25iREbk9snlbFM869fzECicXE9tvQezJ-FHITDlSDUUtoGphg9jXHFRY0n9A/pub?embedded=true"></iframe>
+
+</body>
+</html>
